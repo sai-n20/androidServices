@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project5Service</string>
+    <string-array name="songTitles">
+        <item>Alive</item>
+        <item>Beyond</item>
+        <item>Diamonds</item>
+        <item>Far away</item>
+        <item>One thing</item>
+        <item>Slowly</item>
+    </string-array>
+    <string-array name="artists">
+        <item>Liqwyd</item>
+        <item>Vendredi</item>
+        <item>Liqwyd</item>
+        <item>Inossi</item>
+        <item>Roa</item>
+        <item>Tokyo music walker</item>
+    </string-array>
+    <string-array name="urls">
+        <item>https://www.free-stock-music.com/music/liqwyd-alive.mp3</item>
+        <item>https://www.free-stock-music.com/music/vendredi-beyond.mp3</item>
+        <item>https://www.free-stock-music.com/music/liqwyd-diamonds.mp3</item>
+        <item>https://www.free-stock-music.com/music/inossi-far-away.mp3</item>
+        <item>https://www.free-stock-music.com/music/roa-music-one-thing.mp3</item>
+        <item>https://www.free-stock-music.com/music/tokyo-music-walker-slowly.mp3</item>
+    </string-array>
+    <string-array name="fileNames">
+        <item>alive</item>
+        <item>beyond</item>
+        <item>diamonds</item>
+        <item>faraway</item>
+        <item>onething</item>
+        <item>slowly</item>
+    </string-array>
+</resources>
